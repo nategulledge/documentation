@@ -202,3 +202,18 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+  /* -------------- */
+
+  .index-posts {
+
+
+  }
+  .index-posts span{
+    color: #ff0000;
+    
+  }
+  .index-posts-content {
+    color: #0000ff;
+
+  }
