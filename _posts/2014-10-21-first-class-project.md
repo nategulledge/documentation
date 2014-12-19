@@ -5,8 +5,8 @@ title: Photos from Class 1
 
 <article class="individual-post">
  <header class="post-header">
-<div><span>{{ post.date | date_to_string }}</span> &raquo; {{ post.title }}</a>
-</header>
+ 	Self Actualized Type Study | January 26, 1995  
+ </header>
 <section class="post-content">
 
 <p>Photos of the first group [mapping] activity of the semester.<br>
