@@ -10,7 +10,7 @@ title: Photos from Class 1
 
 <section class="post-content">
 
-<p>ReachSmart has given me repeated opportunities to go beyond their basic design needs to create thoughtful, eye-catching projects for corporate entities, special events, and internet marketing campaigns.</p>
+ReachSmart has given me repeated opportunities to go beyond their basic design needs to create thoughtful, eye-catching projects for corporate entities, special events, and internet marketing campaigns.
 <i>All Photos <a href="https://github.com/nategulledge/vizprofall14/tree/gh-pages/images/class1/all-photos">Here </a></i>
 
 ![]({{ site.url }}/vizprofall14/images/class1/102114-group1-inprogress.jpg)
