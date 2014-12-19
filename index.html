@@ -16,8 +16,10 @@ title: Inferno | Thesis Blog
   <div class="clear-fix"></div>
 
 <section class="posts">
-
+  
+{% for post in site.posts %}
 {{ post.content }}
+{% endfor %}
 
 </section>
 
